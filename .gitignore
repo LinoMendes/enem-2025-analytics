@@ -1,0 +1,13 @@
+# Dados brutos e arquivos pesados do INEP
+dados/
+*.csv
+*.zip
+
+# Ambiente Python e Jupyter
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Credenciais do banco
+.env
